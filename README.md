@@ -1,0 +1,1 @@
+In this reposmtory there is an educational project of Polish notation. The program converts the function into Polish notation, calculates the numerical value and builds graphs in the console. The program is written in C language
